@@ -6,4 +6,4 @@
 
 - npm start 
 
--open hhtp://localhost:8080
+- open hhtp://localhost:8080
