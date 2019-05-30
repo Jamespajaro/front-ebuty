@@ -1,6 +1,6 @@
 **· Vue app, create with vuex - vue-route - materialize - vuelidate**
 
-- git clone https://github.com/Jamespajaro/front-ebuty.git
+- git clone https://github.com/Jamespajaro/front-ebury.git
 
 - npm install
 
